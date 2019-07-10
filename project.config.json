@@ -11,6 +11,8 @@
 	"libVersion": "1.7.0",
 	"appid": "wxf73eb4cd42807088",
 	"projectname": "juejin",
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
 	"condition": {
 		"search": {
 			"current": -1,
